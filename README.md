@@ -6,7 +6,7 @@ URL       : https://data.unicef.org/resources/dataset/digital-connectivity/
 
   The dataset consists of a country specific survey of digital connectivity and digital access to school children at home  from pre primary to higher secondary schools across different wealth classes. This dataset having a survey of internet connection at home of the children, tells us about the access to digital services at home.
   During the pandemic, schools had to go on the online mode and that left education at the luxury of having an internet connection at home.
-The data allows  for governments and organizations to distribute digital learning to those most in need.Apart from the wealth gap, the rural urban divide also plays a major role in accessibility of an internet connection.
+The data allows  for governments and organizations to distribute digital learning to those most in need. Apart from the wealth gap, the rural urban divide also plays a major role in accessibility of an internet connection.
 
   The logistics of delivery of internet connections, or the delivery of wireless services can be planned by using this dataset. The sheer volume of electronic learning devices required can also be estimated by the dataset, e.g. having an internet connection in a poor rural area would solve only half the problem, an electronic device will be required for such students, however some may not have access to both internet and devices.
   
